@@ -66,5 +66,6 @@ https://github.com/lenawook313-sketch/afrog-poc-generation?tab=readme-ov-file
 
 后续有任何bug问题，欢迎反馈。
 
-![c0cea9603fa7188fd7868f8a8cfa757d](https://github.com/user-attachments/assets/381e9a04-f892-4070-9453-0c7ba38dd072)
+
+<img width="342" height="476" alt="image" src="https://github.com/user-attachments/assets/b94b6920-205b-4558-a10b-4837abdf24ab" />
 
