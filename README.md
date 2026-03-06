@@ -62,3 +62,9 @@ https://github.com/lenawook313-sketch/afrog-poc-generation?tab=readme-ov-file
 
 个人非常喜欢该作者的html布局风格，简洁明了，只是在样式上参考该作者布局，并非原封不动抄袭。
 该源码是采用go所编写，有极强的兼容性。
+
+
+后续有任何bug问题，欢迎反馈。
+
+![c0cea9603fa7188fd7868f8a8cfa757d](https://github.com/user-attachments/assets/381e9a04-f892-4070-9453-0c7ba38dd072)
+
